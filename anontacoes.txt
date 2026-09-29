@@ -1,0 +1,1 @@
+A web funciona com o cliente e servidor
