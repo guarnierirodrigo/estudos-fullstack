@@ -1,2 +1,4 @@
 A web funciona com o cliente e servidor
-O terminal usa comadnos como cd e ls
+O terminal usa comandos como cd e ls
+
+
